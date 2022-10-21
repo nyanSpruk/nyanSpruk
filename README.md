@@ -1,4 +1,8 @@
-### Hi there 👋
+[![nyanSpruk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyanSpruk&theme=tokyonight)](https://github.com/nyanSpruk/github-readme-stats)
+<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nyanSpruk&theme=tokyonight)](https://git.io/streak-stats)
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyanSpruk&layout=compact&theme=tokyonight)](https://github.com/nyanSpruk/github-readme-stats)
 
 <!--
 **nyanSpruk/nyanSpruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
