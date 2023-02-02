@@ -1,5 +1,5 @@
-[![nyanSpruk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyanSpruk&theme=tokyonight&count_private=true&layout=compact&card_width=250&border_radius=20&hide_border=true)](https://github.com/nyanSpruk/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nyanSpruk&theme=tokyonight&layout=compact&border_radius=20&hide_border=true)](https://git.io/streak-stats)
+[![nyanSpruk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyanSpruk&count_private=true&layout=compact&card_width=250&border_radius=20&hide_border=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/nyanSpruk/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nyanSpruk&layout=compact&border_radius=20&hide_border=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://git.io/streak-stats)
 <br/>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyanSpruk&layout=compact&theme=tokyonight&count_private=true&card_width=250&border_radius=20&hide_border=true)](https://github.com/nyanSpruk/github-readme-stats)-->
 
