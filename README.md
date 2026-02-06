@@ -1,7 +1,3 @@
-[![nyanSpruk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyanSpruk&theme=tokyonight&count_private=true&layout=compact&card_width=250&border_radius=20&hide_border=true)](https://github.com/nyanSpruk/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nyanSpruk&theme=tokyonight&layout=compact&border_radius=20&hide_border=true)](https://git.io/streak-stats)
-<br/>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nyanSpruk&layout=compact&theme=tokyonight&count_private=true&card_width=250&border_radius=20&hide_border=true)](https://github.com/nyanSpruk/github-readme-stats)-->
 
 <!--
@@ -18,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📫 My personal website: [nyanspruk.com](https://nyanspruk.com)
